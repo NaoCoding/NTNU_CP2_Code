@@ -7,7 +7,7 @@ hw0105 chart json to txt : https://github.com/NaoCoding/NTNU_CP2_HW0105
 ```
 ```
 hw1 公布時間 : 2024/03/27
-分數：None 
+ 
 ```
 
 ## 各次作業連結
