@@ -10,7 +10,7 @@ CP2 Auto attendence chrome extension https://github.com/NaoCoding/NTNU_CP2_Atten
 ```
 ```
 hw1 公布時間 : 2024/03/27
-hw2 公布時間 : 2024/04/10
+hw2 公布時間 : 2024/04/10 (missing bmp.c bmp.h)
 ```
 
 
