@@ -127,10 +127,6 @@ int main(){
         if(!strcmp("end",in))break;
         int r = checkValid(in);
         
-        if(!r){
-            printf("Invalid Input");
-            return 0;
-        }
         int64_t ** inarr = str2arr(in);
        
 
