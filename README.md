@@ -19,3 +19,4 @@ mid 公布時間 : 2024/04/13 (考完試後)
 
 [hw1](https://drive.google.com/file/d/1Wdv4nLaoXsXFZX17OleQpllvq5ii_n08/view)
 [hw2](https://drive.google.com/file/d/1ani8FSxEBnrE48MvYh0w9FPed7NF9NzS/view)
+[mid](https://drive.google.com/file/d/1HhX97mzHtCqlJ0qMEVxLFfzy-yT4CT5M/view)
