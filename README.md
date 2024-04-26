@@ -22,8 +22,6 @@ score record
 hw1 : 77.5
 hw2 : 87
 mid : 75
-
-
 ```
 
 
