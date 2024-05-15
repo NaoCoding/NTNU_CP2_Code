@@ -1,0 +1,5 @@
+STUDENT ID: 41247001S
+
+Open hw0304 by ./hw0304
+
+BONUS at hw0306.pdf
