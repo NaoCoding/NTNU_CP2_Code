@@ -1,0 +1,13 @@
+diff --git a/main.c b/main.c
+index ffaabf4..10994f7 100644
+--- a/main.c
++++ b/main.c
+@@ -698,6 +698,8 @@ static FileType get_file_type(char *filename) {
+ }
+ 
+ int main(int argc, char **argv) {
++  printf("1\n2\n3\n4\n5\n");
++  exit();
+   atexit(cleanup);
+   init_macros();
+   parse_args(argc, argv);
