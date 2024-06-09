@@ -8,14 +8,6 @@ hw0105 chart json to txt :           https://github.com/NaoCoding/NTNU_CP2_HW010
 CP2 Testcase bot                     https://github.com/NaoCoding/NTNU_CP2_2024_bot
 CP2 Auto attendence chrome extension https://github.com/NaoCoding/NTNU_CP2_Attendence
 ```
-```
-hw1 公布時間 : 2024/03/27
-hw2 公布時間 : 2024/04/10 (missing bmp.c bmp.h)
-mid 公布時間 : 2024/04/13 (考完試後)
-
-
-期末專題 公布時間 : Demo 當天 or deadline
-```
 
 ```
 score record
