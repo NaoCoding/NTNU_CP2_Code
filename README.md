@@ -9,6 +9,8 @@ CP2 Testcase bot                     https://github.com/NaoCoding/NTNU_CP2_2024_
 CP2 Auto attendence chrome extension https://github.com/NaoCoding/NTNU_CP2_Attendence
 ```
 
+[Final Project](https://github.com/NaoCoding/Interactive-Fiction-Engine.c)
+
 ```
 score record
 hw1 : 77.5
