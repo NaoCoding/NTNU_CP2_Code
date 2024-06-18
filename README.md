@@ -16,6 +16,10 @@ score record
 hw1 : 77.5
 hw2 : 87
 mid : 75
+hw3 : 80
+hw4 : 150
+final :
+final project : 129
 ```
 
 
