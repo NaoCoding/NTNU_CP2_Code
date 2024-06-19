@@ -18,7 +18,7 @@ hw2 : 87
 mid : 75
 hw3 : 80
 hw4 : 150
-final :
+final : 55
 final project : 129
 ```
 
