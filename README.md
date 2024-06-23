@@ -20,6 +20,7 @@ hw3 : 80
 hw4 : 150
 final : 55
 final project : 129
+final score : A+
 ```
 
 
